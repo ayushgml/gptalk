@@ -1,0 +1,3 @@
+tokens/discord_token.env
+tokens/openai_token.env
+fly.toml
