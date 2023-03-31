@@ -26,7 +26,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <div align="center">
-    <img src="images/project_intro_banner.png" alt="Banner" width="5    00">
+    <img src="images/project_intro_banner.png" alt="Banner" width="500">
 </div>
 This is a discord bot made using OpenAi's GPT-3.5-Turbo. It can generate text based on a prompt. Currently, it has 10 modes of operation. It can generate text in the following modes:
 <ol>
