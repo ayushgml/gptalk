@@ -12,7 +12,7 @@
   <p align="center">
     A discord bot that uses GPT-3.5-Turbo to generate text
     <br />
-    <a href="https://github.com/ayushgml/gptalk/issues"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ayushgml/gptalk"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/ayushgml/gptalk">View Demo</a>
